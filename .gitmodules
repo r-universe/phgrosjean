@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mlearning"]
 	path = mlearning
 	url = https://github.com/cran/mlearning
-	shallow = true
-	registered = true
 [submodule "pastecs"]
 	path = pastecs
 	url = https://github.com/phgrosjean/pastecs
-	shallow = true
-	registered = true
 [submodule "svIDE"]
 	path = svIDE
 	url = https://github.com/cran/svIDE
-	shallow = true
-	registered = true
 [submodule "svTools"]
 	path = svTools
 	url = https://github.com/cran/svTools
-	shallow = true
-	registered = true
 [submodule "svWidgets"]
 	path = svWidgets
 	url = https://github.com/cran/svWidgets
-	shallow = true
-	registered = true
 [submodule "zooimage"]
 	path = zooimage
 	url = https://github.com/cran/zooimage
-	shallow = true
-	registered = true
