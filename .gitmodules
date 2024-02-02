@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "pastecs"]
-	path = pastecs
-	url = https://github.com/phgrosjean/pastecs
 [submodule "svIDE"]
 	path = svIDE
 	url = https://github.com/cran/svIDE
